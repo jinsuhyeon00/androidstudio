@@ -1,6 +1,6 @@
 # androidstudio
 Week01
-안드로이드구동
-! [week01] ( https://user-images.githubusercontent.com/79950254/110569425-da73d080-8197-11eb-9919-05d8e25aead9.png )
-Week02
-![week02](https://user-images.githubusercontent.com/79950254/110569614-11e27d00-8198-11eb-8d11-7d8a059a53e6.PNG)
+안드로이드 구동 ! [week01] (https://user-images.githubusercontent.com/79950254/110569684-29216a80-8198-11eb-8bf8-6a03a41a9c10.png)
+2 주차
+몹 변경출력![week02](https://user-images.githubusercontent.com/79950254/110569723-363e5980-8198-11eb-9e38-e01967bcdc6f.PNG)
+
